@@ -1,0 +1,62 @@
+#legend {
+    position: absolute;
+    right: 300px;
+    bottom: 150px;
+    border:double;
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}
+
+#left {
+    position: absolute;
+    top: 45px;
+    left: 10px;
+}
+
+#right{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    text-align: left;
+}
+
+.leg-cir{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+
+#leg-cir1{
+    background: red;
+}
+
+#leg-cir2{
+    background: blue;
+}
+
+#leg-cir3{
+    background: orange;
+}
+
+#leg-cir4{
+    background: green;
+}
+
+#p2{
+    padding-top: 4px;
+}
+
+#p3{
+    padding-top: 5px;
+}
+
+#p4 {
+    padding-top: 3px;
+}
+
+.tooltip {
+    position: absolute;
+    top: -20vh;
+}
